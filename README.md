@@ -41,7 +41,7 @@ Why Random Forest?
 ---
 
 ## 📈 Model Performance
-- Accuracy: *(run the model to get exact value, e.g. 0.85 or 85%)*
+- Accuracy: 86%
 
 ---
 
